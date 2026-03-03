@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+env/
+
+# ML models
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+data/
+results/
+*.csv
