@@ -32,6 +32,5 @@ logs/
 # Environment variables
 .env
 
-data/
-results/
+
 *.csv
